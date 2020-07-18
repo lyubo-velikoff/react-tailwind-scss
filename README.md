@@ -1,2 +1,7 @@
-# react-tailwind-scss
-React Tailwind SCSS Boilerplate
+# React-Tailwind-Scss boilerplate
+
+## How to start
+
+```
+npm start
+```
